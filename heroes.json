@@ -2,5 +2,29 @@
   {
     "title": "Dreamworks",
     "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/dreamworks_intro.mp4"
+  },
+  {
+    "title": "Illumination",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/illumination_intro.mp4"
+  },
+  {
+    "title": "Sony Pictures Animation",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/sony_animation_intro.mp4"
+  },
+  {
+    "title": "Universal",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/universal_intro.mp4"
+  },
+  {
+    "title": "Walt Disney Animation",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/disney_animation_intro.mp4"
+  },
+  {
+    "title": "Warner Bros. Animation",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/warnerbros_animation_intro.mp4"
+  },
+  {
+    "title": "Netflix Animation",
+    "videoURL": "https://raw.githubusercontent.com/Febsho/fusion-hero-packs/main/netflix_animation_intro.mp4"
   }
 ]
